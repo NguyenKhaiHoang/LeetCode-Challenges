@@ -1,5 +1,4 @@
+# LeetCode Hub
 
-# LeetCode Challenges
-
-Just LeetCode Challenges that I have done so far.
-
+LeetCode challenges that I have solved so far.
+Inspired by NeetCode.io
