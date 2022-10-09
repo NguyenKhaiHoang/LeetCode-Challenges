@@ -1,4 +1,4 @@
 # LeetCode Hub
 
-LeetCode challenges that I have solved so far.
+This repo contains all [my solved LeetCode challenges](https://leetcode.com/NguyenKhaiHoang/).
 Inspired by NeetCode.io
